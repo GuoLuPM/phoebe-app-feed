@@ -1,3 +1,3 @@
-# Phoebe App
+# Windows x64
 
-Updates.
+Windows x64 版本。
