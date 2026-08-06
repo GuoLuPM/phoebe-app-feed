@@ -8,10 +8,10 @@
     <phoebe:stableFeedEligible>true</phoebe:stableFeedEligible>
     <item>
       <title>Phoebe 0.2.1</title>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-      <phoebe:sourceCommit>1b1198dc7ece20f341f84665641b69d3f976d486</phoebe:sourceCommit>
+      <pubDate>Thu, 06 Aug 2026 18:21:57 +0000</pubDate>
+      <phoebe:sourceCommit>799b6a657bf81e60c1ad14524138acb881d86ab5</phoebe:sourceCommit>
       <phoebe:releaseTag>app-windows-x64-v0.1.0</phoebe:releaseTag>
-      <enclosure url="https://api.github.com/repos/GuoLuPM/phoebe-app-feed/releases/assets/503660967" length="1215867777" type="application/octet-stream" sparkle:version="4" sparkle:shortVersionString="0.2.1" sparkle:edSignature="PoBc58mxC1euxzC19tqWcA0/JuktWWYmE5+IDfiYD8LkK+9WwJ5t8074JoUz7mO6MCGZ3QiLoQiyu4GNyNnXAQ==" />
+      <enclosure url="https://api.github.com/repos/GuoLuPM/phoebe-app-feed/releases/assets/504173205" length="1215770683" type="application/octet-stream" sparkle:version="5" sparkle:shortVersionString="0.2.1" sparkle:edSignature="ErPNowtZadw9LZZS8dkGgFI6uUKVDfVE8v7dYIN/xOLJvlEPeNQxsxT5OdJw9icNuQqVb5sNs1kLadlOS6msBA==" />
     </item>
   </channel>
 </rss>
